@@ -23,7 +23,7 @@ Por favor, **NO** realices consultas en internet y _solo utiliza las páginas ne
 
 ### Seccion 1.1.
 
-Crear una clase llamada **Alergias** que contenga el _nombre_ de una persona y sus _alérgias_. Cada alergia tiene un valor de puntuación único según la siguiente lista:
+Encontrarás en el repositorio un archivo con la clase **Alergias** y algunos comentarios. Esta clase debe contener el _nombre_ de una persona y sus _alérgias_. Cada alergia tiene un valor de puntuación único según la siguiente lista:
 
 - Huevos : 1
 - Cacahuetes: 2
